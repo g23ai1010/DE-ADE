@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "https://aws-glue-ade-bucket.s3.eu-north-1.amazonaws.com/target-data-store/parquet_reports/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "textqualifier": "\""
+    }
+}

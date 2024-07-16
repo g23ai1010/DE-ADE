@@ -1,0 +1,1 @@
+* * * * * /usr/bin/python3 /home/ec2-user/s3_stage/stagetosdw.py
